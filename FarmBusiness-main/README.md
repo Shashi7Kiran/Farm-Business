@@ -21,12 +21,7 @@ Tech Stack used is
 - JSONWEBTOKEN
 
 ---
- Team details
-- Team Code : 69e18d5e01
-- Team Name : the_optimizers
-- IsFresher: False
 
----
 
 # Setup
 Download [Node.js](https://nodejs.org/en/download/).
